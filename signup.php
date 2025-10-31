@@ -28,7 +28,7 @@ $emp = new Employee();
     ?>
     <form class="form-signin" action="" method="POST">
       <div class="text-center mb-4">
-        <img class="" src="images/brac.jpg" alt="" width="220" height="72">
+        <img class="" src="images/LoanHub_logo.png" alt="LoanHub" width="220" height="72">
       </div>
       <div class="text-center mb-4"><?php 
           if (isset($inserted)) {
@@ -61,7 +61,13 @@ $emp = new Employee();
       <input class="btn btn-lg btn-primary btn-block" type="submit" name="submit" value="Register">
       <p class="mt-3 text-uppercase font-weight-bold text-center">Already registered ? <a href="signin.php">Sign in</a>.</p>
 
-      <p class="mt-5 mb-3 text-muted text-center">Developed by &copy; Hares Islam - 2025 </p>
+      <!-- <p class="mt-5 mb-3 text-muted text-center">Developed by &copy; Hares Islam - 2025 </p> -->
+       <div class="text-center mt-4">
+        <p class="text-muted mb-0">
+          Developed by &copy; 
+          <a href="https://github.com/hiclassic" target="_blank">Hares Islam @ Github</a> - 2025
+        </p>
+      </div>
     </form>
   </body>
 </html>

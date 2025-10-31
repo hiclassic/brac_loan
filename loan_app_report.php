@@ -32,28 +32,28 @@ $pdf->AddPage();
 
 
 
-$iubat='Brac Bank' ;				
+$iubat='LoanHub'; ;				
 
-		
-		
-$pdf->Image('assets/brac.jpg',10,15,17);
+
+
+$pdf->Image('assets/loanhub.png',10,15,17);
 
 $pdf->Ln();
 $pdf-> Cell(20);
 $pdf->SetFont('Times','',12);
-$pdf->Write(4,'BRAC Bank is a private commercial bank');
+$pdf->Write(4,'LoanHub is a private micro-credit management software developed by Hares Islam.');
 $pdf->Ln();
 $pdf-> Cell(20);
 $pdf->SetFont('Times','',12);
-$pdf->Write(4, 'Uttara Model Town, Dhaka 1230, Bangladesh');
+$pdf->Write(4, 'Green Road, Dhaka 1205, Bangladesh');
 $pdf->Ln();
 $pdf-> Cell(20);
 $pdf->SetFont('Times','',12);
-$pdf->Write(4,'Phone: 0175465465, Email:info@bracbank.com');
+$pdf->Write(4,'Phone: 0175465465, Email:hares.ahmed.319@gmail.com');
 $pdf->Ln();
 $pdf-> Cell(20);
 $pdf->SetFont('Times','',12);
-$pdf->Write(4,'Web: www.bracbank.com');
+$pdf->Write(4,'Web: www.haresislam.top');
 $pdf-> Cell(20);
 $pdf->SetFont('Times','',8);
 $pdf->Write(5, '__________________________________________________________________________________________________________________________________');

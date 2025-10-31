@@ -1,11 +1,19 @@
 	        </div>
         <!-- partial:partials/_footer.html -->
         <footer class="footer">
-          <div class="container-fluid clearfix">
+          <div class="text-center mt-4">
+        <p class="text-muted mb-0">
+          Developed by &copy; 
+          <a href="https://haresislam.top" target="_blank">Hares Islam @ Portfolio</a> - 2025
+        </p>
+      </div>
+  
+          <!-- <div class="container-fluid clearfix">
             <span class="float-right">
-                <a href="#">Brack Bank</a> &copy; 2025
+                <a href="#">LoanHub</a> &copy; 2025
             </span>
-          </div>
+          </div> -->
+        
         </footer>
 
         <!-- partial -->

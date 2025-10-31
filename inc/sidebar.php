@@ -49,15 +49,15 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
-                <!-- <a class="nav-link" href="payloan.php"> -->
+              <!-- <a class="nav-link" href="#"> -->
+                <a class="nav-link" href="payloan.php">
                 <img src="images/icons/6.png" alt="">
                 <span class="menu-title">Loan Payment</span>
               </a>
             </li>
              <li class="nav-item">
-              <a class="nav-link" href="#">
-                <!-- <a class="nav-link" href="loan_status.php"> -->
+              <!-- <a class="nav-link" href="#"> -->
+                <a class="nav-link" href="loan_status.php">
                 <img src="images/icons/6.png" alt="">
                 <span class="menu-title">Loan Status</span>
               </a>
@@ -72,12 +72,12 @@
               <div class="collapse" id="liability-pages">
                 <ul class="nav flex-column sub-menu">
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Record property sell</a>
-                      <!-- <a class="nav-link" href="recordsellinfo.php">Record property sell</a> -->
+                    <!-- <a class="nav-link" href="#">Record property sell</a> -->
+                      <a class="nav-link" href="recordsellinfo.php">Record property sell</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">View Property info</a>
-                     <!-- <a class="nav-link" href="showsellinfo.php">View Property info</a> -->
+                    <!-- <a class="nav-link" href="#">View Property info</a> -->
+                     <a class="nav-link" href="showsellinfo.php">View Property info</a>
                   </li>
                 </ul>
               </div>

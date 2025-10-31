@@ -47,7 +47,7 @@ ob_start();
 		<!-- partial:partials/_navbar.html -->
     <nav class="navbar navbar-default col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="bg-white text-center navbar-brand-wrapper">
-        <a class="navbar-brand brand-logo" href="index.php"><img src="images/brac.jpg" /></a>
+        <a class="navbar-brand brand-logo" href="index.php"><img src="images/LoanHub_logo.png" /></a>
         <a class="navbar-brand brand-logo-mini" href="index.php"><img src="images/logo_star_mini.jpg" alt=""></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center">
